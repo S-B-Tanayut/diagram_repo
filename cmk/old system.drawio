@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T12:19:09.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nLaNsF4A0naW-swnf648" version="24.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-15T12:44:57.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LBLD_FdT08BfioiX9Fr4" version="24.6.5" type="github" pages="4">
   <diagram name="ขอยิม รพ.สต" id="eeUbUDbcZIme84CjpNeB">
     <mxGraphModel dx="2100" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="249" y="280" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vAfi4zploweHk0ciZkWM-3" value="ขั้นตอนการ ขอยืม อุปกรณ์จาก &lt;br&gt;ศูนย์ยืมคืนกายอุปกรณ์ทางกรแพทย์ รพ.สต. จอมหมอกแก้ว&lt;div&gt;กรณีที่ 1 ผู้ประสงค์ขอยืมมาติดต่อ รพ.สต.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="80" width="300" height="50" as="geometry" />
+          <mxGeometry x="264" y="70" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAfi4zploweHk0ciZkWM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vAfi4zploweHk0ciZkWM-4" target="vAfi4zploweHk0ciZkWM-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RkrflOcp2dvrm6AniosI" name="ขอคืน รพ.สต">
-    <mxGraphModel dx="1750" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
           <mxGeometry x="360" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgodwKRQVZuFS-OEHnnA-2" value="ขั้นตอนการ คืน อุปกรณ์ให้กับ&lt;div&gt;ศูนย์ยืมคืนกายอุปกรณ์ทางกรแพทย์ รพ.สต. จอมหมอกแก้ว&lt;div&gt;กรณีที่ 1 ผู้ยืม คืนอุปกรณ์ให้กับ รพ.สต.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="300" height="50" as="geometry" />
+          <mxGeometry x="264" y="60" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b7eYIAG4PLOWUMoIaQSv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7eYIAG4PLOWUMoIaQSv-1" target="b7eYIAG4PLOWUMoIaQSv-2">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +101,14 @@
         </mxCell>
         <mxCell id="b7eYIAG4PLOWUMoIaQSv-2" value="เจ้าหน้าที่ออกเยี่ยมคนไข้ พร้อมตรวจประเมิน&lt;br&gt;ว่าเหมาะสมให้ยืมอุปกรณ์ต่อไปหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcKzywjYAzeSc9ix5q--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7eYIAG4PLOWUMoIaQSv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="716" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="b7eYIAG4PLOWUMoIaQSv-5" value="ทำการคืนอุปกรณ์ให้เจ้าหน้าที่หรือให้นำไปคืนที่ รพ.สต &lt;br&gt;พร้อมลงบันทึกประวัติการยืม&lt;br&gt;(บันทึกลงสมุด)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="390" width="160" height="60" as="geometry" />
@@ -118,6 +126,128 @@
           <mxGeometry x="536" y="390" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vtl7Q9_Jx8TvOKwS-mud-5" value="จบการทำงาน" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J-kUp55f6GbSzaVpn0Ho" name="ต่อสัญญา รพ.">
+    <mxGraphModel dx="1167" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gx2FSNR23mTcMKhl7WLD-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ขั้นตอนการ ขอยืม อุปกรณ์จาก&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ศูนย์ยืมคืนกายอุปกรณ์ทางกรแพทย์ รพ.สต. จอมหมอกแก้ว&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;กรณีที่ 2 ผู้ประสงค์ขอต่อสัญญาการยืมจาก รพ.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="254" y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wH4Ocb-PfU3C-A_zrZRY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_hdzqbZsqGZ5_FzA_Zc_-1" target="wH4Ocb-PfU3C-A_zrZRY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_hdzqbZsqGZ5_FzA_Zc_-1" value="เริ่ม" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="374" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wH4Ocb-PfU3C-A_zrZRY-1" target="v9_AgkkxvgC3qqNqcUWg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wH4Ocb-PfU3C-A_zrZRY-1" value="ครบกำหนดเวลา 3 เดือนในการยืมอุปกรณ์" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9_AgkkxvgC3qqNqcUWg-3" target="v9_AgkkxvgC3qqNqcUWg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9_AgkkxvgC3qqNqcUWg-3" target="v9_AgkkxvgC3qqNqcUWg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-3" value="เจ้าหน้าที่ออกเยี่ยมคนไข้ พร้อมตรวจประเมิน&lt;br&gt;ว่าเหมาะสมให้ยืมอุปกรณ์ต่อไปหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="330" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v9_AgkkxvgC3qqNqcUWg-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-5" value="ทำการคืนอุปกรณ์ให้เจ้าหน้าที่หรือให้นำไปคืนที่ รพ.สต &lt;br&gt;พร้อมลงบันทึกประวัติการยืม&lt;br&gt;(บันทึกลงสมุด)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9_AgkkxvgC3qqNqcUWg-7" target="v9_AgkkxvgC3qqNqcUWg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-7" value="เจ้าหน้าที่ถ่ายรูป เป็นหลักฐานการลงทะเบียนการยืมใหม่อีกครั้งเพื่อต่อสัญญาการยืม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="470" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-8" value="เหมาะสม" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-9" value="ไม่เหมาะสม" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-10" value="จบการทำงาน" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="374" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9_AgkkxvgC3qqNqcUWg-12" target="v9_AgkkxvgC3qqNqcUWg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9_AgkkxvgC3qqNqcUWg-12" value="เจ้าหน้าที่ส่งรูป หลักฐานการต่อสัญญาให้กับ รพ. ต้นทางที่ยืมอุปกรณ์มา &lt;br&gt;เพื่อให้ต่อสัญญาอุปกรณ์ให้" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="585" width="196" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iKTvLrYEyjLjVOVyeg1a" name="ขอคืน รพ.">
+    <mxGraphModel dx="1909" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-2" target="s5eYfVFjtHNLJ6KoYiNG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-2" value="เริ่ม" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-3" value="ขั้นตอนการ คืน อุปกรณ์ให้กับ&lt;div&gt;ศูนย์ยืมคืนกายอุปกรณ์ทางกรแพทย์ รพ.สต. จอมหมอกแก้ว&lt;div&gt;กรณีที่ 2 ผู้ยืม คืนอุปกรณ์ให้กับ รพ.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="60" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-5" target="s5eYfVFjtHNLJ6KoYiNG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-5" value="ครบกำหนดเวลา 3 เดือนในการยืมอุปกรณ์" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-8" target="s5eYfVFjtHNLJ6KoYiNG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-8" target="s5eYfVFjtHNLJ6KoYiNG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-8" value="เจ้าหน้าที่ออกเยี่ยมคนไข้ พร้อมตรวจประเมิน&lt;br&gt;ว่าเหมาะสมให้ยืมอุปกรณ์ต่อไปหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="716" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-10" value="ทำการคืนอุปกรณ์ให้เจ้าหน้าที่หรือให้นำไปคืนที่ รพ.สต &lt;br&gt;พร้อมลงบันทึกประวัติการยืม&lt;br&gt;(บันทึกลงสมุด)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-12" target="s5eYfVFjtHNLJ6KoYiNG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-12" value="เจ้าหน้าที่ลงทะเบียนการยืมใหม่อีกครั้งเพื่อต่อสัญญาการยืม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="520" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-13" value="เหมาะสม" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-14" value="ไม่เหมาะสม" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="390" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-15" value="จบการทำงาน" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="360" y="640" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
