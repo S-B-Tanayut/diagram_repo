@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T12:44:57.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LBLD_FdT08BfioiX9Fr4" version="24.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-15T12:46:34.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yApHxl6tAA32GzfDaWBM" version="24.6.5" type="github" pages="4">
   <diagram name="ขอยิม รพ.สต" id="eeUbUDbcZIme84CjpNeB">
-    <mxGraphModel dx="2100" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iKTvLrYEyjLjVOVyeg1a" name="ขอคืน รพ.">
-    <mxGraphModel dx="1909" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-10" value="ทำการคืนอุปกรณ์ให้เจ้าหน้าที่หรือให้นำไปคืนที่ รพ.สต &lt;br&gt;พร้อมลงบันทึกประวัติการยืม&lt;br&gt;(บันทึกลงสมุด)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s5eYfVFjtHNLJ6KoYiNG-10" value="ทำการคืนอุปกรณ์ให้เจ้าหน้าที่หรือให้นำไปคืนที่ รพ. ต้นทาง&lt;br&gt;พร้อมลงบันทึกประวัติการยืม&lt;br&gt;(บันทึกลงสมุด)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="390" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s5eYfVFjtHNLJ6KoYiNG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5eYfVFjtHNLJ6KoYiNG-12" target="s5eYfVFjtHNLJ6KoYiNG-15">
