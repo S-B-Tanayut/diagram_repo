@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T11:24:07.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QY_PGbzZiMyBbXW525Up" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T11:29:09.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T3eiBwsN0g1tXeVy80RE" version="24.6.5" type="github">
   <diagram name="Page-1" id="eeUbUDbcZIme84CjpNeB">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="vAfi4zploweHk0ciZkWM-2" value="ผู้ยืมเขียนใบคำร้องขอยืม&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;พร้อมหลักฐาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="332" y="120" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vAfi4zploweHk0ciZkWM-3" value="ขั้นตอนการขอยืมอุปกรณ์จาก ศูนย์ยืมคืนกายอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="60" width="160" height="30" as="geometry" />
+        <mxCell id="vAfi4zploweHk0ciZkWM-3" value="ขั้นตอนการ ขอยืม อุปกรณ์จาก &lt;br&gt;ศูนย์ยืมคืนกายอุปกรณ์ทางกรแพทย์&lt;div&gt;กรณีที่ 1 ผู้ประสงค์ขอยืมมาติดต่อ รพ.สต.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vAfi4zploweHk0ciZkWM-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vAfi4zploweHk0ciZkWM-4" target="vAfi4zploweHk0ciZkWM-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
